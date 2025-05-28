@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "model": "Peugeot 208",
+      "cover": "../img/peugeot.png",
+      "type": "Diesel",
+      "category": "5 portes",
+      "stuff": "Auto Radio",
+      "forfait": 1000,
+      "kilometreSupp": 0.5,
+      "price": 999,
+      "agence": "Paris"
+    },
+    {
+      "id": "2",
+      "model": "Ford Focus",
+      "cover": "../img/ford.png",
+      "type": "Diesel",
+      "category": "5 portes",
+      "stuff": "Auto Radio",
+      "forfait": 1000,
+      "kilometreSupp": 0.5,
+      "price": 999,
+      "agence": null
+    },
+    {
+      "id": "3",
+      "model": "Audi A1",
+      "cover": "../img/audi.png",
+      "type": "Diesel",
+      "category": "5 portes",
+      "stuff": "Auto Radio",
+      "forfait": 1000,
+      "kilometreSupp": 0.55,
+      "price": 1100,
+      "agence": "Paris"
+    },
+    {
+      "id": "4",
+      "model": "Opel Mokka",
+      "cover": "../img/opel.png",
+      "type": "Diesel",
+      "category": "5 portes",
+      "stuff": "Auto Radio",
+      "forfait": 1000,
+      "kilometreSupp": 0.4,
+      "price": 1150,
+      "agence": "Paris"
+    }
+  ]
+}
