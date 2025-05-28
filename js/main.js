@@ -1,7 +1,7 @@
 // Récupération de la db
 async function getCars() {
   try {
-    const res = await fetch("../db.json");
+    const res = await fetch("./json/db.json");
     const data = await res.json();
     console.log(data);
     return data.cars;
