@@ -3,7 +3,7 @@
     {
       "id": "1",
       "model": "Peugeot 208",
-      "cover": "./img/peugeot.png",
+      "cover": "./peugeot.png",
       "type": "Diesel",
       "category": "5 portes",
       "stuff": "Auto Radio",
@@ -15,7 +15,7 @@
     {
       "id": "2",
       "model": "Ford Focus",
-      "cover": "./img/ford.png",
+      "cover": "./ford.png",
       "type": "Diesel",
       "category": "5 portes",
       "stuff": "Auto Radio",
@@ -27,7 +27,7 @@
     {
       "id": "3",
       "model": "Audi A1",
-      "cover": "./img/audi.png",
+      "cover": "./audi.png",
       "type": "Diesel",
       "category": "5 portes",
       "stuff": "Auto Radio",
@@ -39,7 +39,7 @@
     {
       "id": "4",
       "model": "Opel Mokka",
-      "cover": "./img/opel.png",
+      "cover": "./opel.png",
       "type": "Diesel",
       "category": "5 portes",
       "stuff": "Auto Radio",
